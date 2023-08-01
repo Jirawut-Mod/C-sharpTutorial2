@@ -1,0 +1,8 @@
+E:\C#\C#Tutorial2\basicProgramming\basicProgramming\basicProgramming\bin\Debug\basicProgramming.exe.config
+E:\C#\C#Tutorial2\basicProgramming\basicProgramming\basicProgramming\bin\Debug\basicProgramming.exe
+E:\C#\C#Tutorial2\basicProgramming\basicProgramming\basicProgramming\bin\Debug\basicProgramming.pdb
+E:\C#\C#Tutorial2\basicProgramming\basicProgramming\basicProgramming\obj\Debug\basicProgramming.csproj.AssemblyReference.cache
+E:\C#\C#Tutorial2\basicProgramming\basicProgramming\basicProgramming\obj\Debug\basicProgramming.csproj.SuggestedBindingRedirects.cache
+E:\C#\C#Tutorial2\basicProgramming\basicProgramming\basicProgramming\obj\Debug\basicProgramming.csproj.CoreCompileInputs.cache
+E:\C#\C#Tutorial2\basicProgramming\basicProgramming\basicProgramming\obj\Debug\basicProgramming.exe
+E:\C#\C#Tutorial2\basicProgramming\basicProgramming\basicProgramming\obj\Debug\basicProgramming.pdb
